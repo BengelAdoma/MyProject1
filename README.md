@@ -6,7 +6,7 @@
 3. Scorpion
 
 ### Unordered List
--Sam
--Ben
--Jay
+- Sam
+- Ben
+- Jay
 
