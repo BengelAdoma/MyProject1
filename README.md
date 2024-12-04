@@ -10,3 +10,10 @@
 - Ben
 - Jay
 
+### LINK
+[title](https://www.example.com)
+
+
+### IMAGE
+
+![alt text](https://www.puppyschool.co.uk/media/bb89e57566a1e3ef6e76318ee3139adc/terrier-puppy-running-on-grass-outside.jpg)
